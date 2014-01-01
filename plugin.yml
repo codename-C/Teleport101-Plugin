@@ -1,0 +1,8 @@
+name: teleportplugin
+main: com.mooo.GuildHub.Teleport101
+version: 1.0
+description: >
+    Teleport 101: The #1 teleport Plugin!
+commands:
+ teleport101:
+  description: Teleports [Username] to [TargetUsername].
